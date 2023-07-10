@@ -24,3 +24,6 @@ JLinkLog.txt
 *.map
 *.uvproj
 *.uvopt
+*.M51
+*.A51
+*.a51
