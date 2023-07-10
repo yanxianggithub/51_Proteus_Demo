@@ -22,3 +22,5 @@ JLinkLog.txt
 *.htm
 *.sct
 *.map
+*.uvproj
+*.uvopt
