@@ -25,5 +25,9 @@ JLinkLog.txt
 *.uvproj
 *.uvopt
 *.M51
+*.m51
 *.A51
 *.a51
+*.yanxcg
+*.pdsbak
+*.workspace
